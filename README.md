@@ -9,6 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-v3.10.4-blue)](https://www.python.org/)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/RiZoeLX/RiZoeLXSpam)   
 ----
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/NoobCoderAayu/BabeNtg&envs=wtf)
 
 <h2 align="center"> Features </h2>
 
